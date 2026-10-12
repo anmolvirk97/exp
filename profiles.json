@@ -18,8 +18,11 @@
    "pinHash": "d0c7223a99c3f8a70b72d211e33154c4f8be006fc37a482dff62532f6aa71ff0",
    "dataFile": "profiles/jaiveer.json",
    "admin": false,
-   "createdAt": 1791603648417
+   "createdAt": 1791603648417,
+   "archived": true,
+   "archivedAt": 1791801044110,
+   "archivedBy": "jaiveer"
   }
  ],
- "updatedAt": 1791603649278
+ "updatedAt": 1791801044110
 }
