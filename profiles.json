@@ -1,0 +1,15 @@
+{
+ "profiles": [
+  {
+   "id": "anmolvirk",
+   "name": "Anmol Virk",
+   "cls": "6",
+   "section": "R",
+   "pinHash": "82825216595cc763980817e691e30f096305774318fa830354f125b951a6aef4",
+   "dataFile": "data.json",
+   "admin": true,
+   "createdAt": 0
+  }
+ ],
+ "updatedAt": 1795627658769
+}
